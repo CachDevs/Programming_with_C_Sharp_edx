@@ -22,3 +22,16 @@ D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 7\Wh
 D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 7\WhileStatement\WhileStatement\obj\Debug\WhileStatement.g.resources
 D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 7\WhileStatement\WhileStatement\obj\Debug\WhileStatement.Properties.Resources.resources
 D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 5\Windows 7\WhileStatement\WhileStatement\obj\Debug\WhileStatement.csproj.GenerateResource.Cache
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 2\WhileStatement\WhileStatement\bin\Debug\WhileStatement.exe.config
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 2\WhileStatement\WhileStatement\obj\Debug\WhileStatement.exe
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 2\WhileStatement\WhileStatement\obj\Debug\WhileStatement.pdb
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 2\WhileStatement\WhileStatement\bin\Debug\WhileStatement.exe
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 2\WhileStatement\WhileStatement\bin\Debug\WhileStatement.pdb
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 2\WhileStatement\WhileStatement\obj\Debug\WhileStatement.csprojResolveAssemblyReference.cache
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 2\WhileStatement\WhileStatement\obj\Debug\MainWindow.baml
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 2\WhileStatement\WhileStatement\obj\Debug\MainWindow.g.cs
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 2\WhileStatement\WhileStatement\obj\Debug\App.g.cs
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 2\WhileStatement\WhileStatement\obj\Debug\WhileStatement_MarkupCompile.cache
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 2\WhileStatement\WhileStatement\obj\Debug\WhileStatement.g.resources
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 2\WhileStatement\WhileStatement\obj\Debug\WhileStatement.Properties.Resources.resources
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 2\WhileStatement\WhileStatement\obj\Debug\WhileStatement.csproj.GenerateResource.Cache
