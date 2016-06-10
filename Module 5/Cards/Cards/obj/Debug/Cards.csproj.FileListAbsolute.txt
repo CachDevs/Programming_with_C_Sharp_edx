@@ -24,3 +24,6 @@ D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 10\Windows 7\C
 D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 10\Windows 7\Cards\Cards\obj\Debug\Cards.g.resources
 D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 10\Windows 7\Cards\Cards\obj\Debug\Cards.Properties.Resources.resources
 D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 10\Windows 7\Cards\Cards\obj\Debug\Cards.csproj.GenerateResource.Cache
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 5\Cards\Cards\bin\Debug\Cards.exe.config
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 5\Cards\Cards\obj\Debug\Cards.exe
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 5\Cards\Cards\obj\Debug\Cards.pdb
