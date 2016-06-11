@@ -1,0 +1,9 @@
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 5\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 5\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 5\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 5\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 5\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 5\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 6\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 6\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 6\Assignment\Assignment\obj\Debug\Assignment.pdb
