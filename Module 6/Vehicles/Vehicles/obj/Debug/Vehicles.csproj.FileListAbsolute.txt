@@ -8,3 +8,9 @@ D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 12\Windows 7\V
 D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 12\Windows 7\Vehicles\Vehicles\obj\Debug\Vehicles.pdb
 D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 12\Windows 7\Vehicles\Vehicles\bin\Debug\Vehicles.exe
 D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 12\Windows 7\Vehicles\Vehicles\bin\Debug\Vehicles.pdb
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 6\Vehicles\Vehicles\bin\Debug\Vehicles.exe.config
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 6\Vehicles\Vehicles\obj\Debug\Vehicles.exe
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 6\Vehicles\Vehicles\obj\Debug\Vehicles.pdb
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 6\Vehicles\Vehicles\bin\Debug\Vehicles.exe
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 6\Vehicles\Vehicles\bin\Debug\Vehicles.pdb
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 6\Vehicles\Vehicles\obj\Debug\Vehicles.csprojResolveAssemblyReference.cache
