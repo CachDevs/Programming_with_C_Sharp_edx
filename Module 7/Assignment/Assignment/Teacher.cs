@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace Assignment
 {
-    class Student : Person
+    class Teacher : Person
     {
-        private static int numberOfStudents;
 
-        public Student(string firstName, string lastName, string addresLine1,
+        public Teacher(string firstName, string lastName, string addresLine1,
             string addressLine2, string city, string state, string country, DateTime birthdate)
         {
             FirstName = firstName;
@@ -21,14 +20,8 @@ namespace Assignment
             State = state;
             Country = country;
             Birthdate = birthdate;
-            numberOfStudents++;
         }
 
-        public static int getStudents()
-        {
-            return numberOfStudents;
-        }
-
-        public void TakeTest() { Console.WriteLine("Taking test..."); }
+        public void GradeTest() { Console.WriteLine("Grading test..."); }
     }
 }

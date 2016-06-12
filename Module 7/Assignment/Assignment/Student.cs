@@ -9,6 +9,7 @@ namespace Assignment
     class Student : Person
     {
         private static int numberOfStudents;
+        Stack<int> grades = new Stack<int>();
 
         public Student(string firstName, string lastName, string addresLine1,
             string addressLine2, string city, string state, string country, DateTime birthdate)
@@ -22,6 +23,14 @@ namespace Assignment
             Country = country;
             Birthdate = birthdate;
             numberOfStudents++;
+        }
+
+        public Stack<int> Grades
+        {
+            get
+            {
+                return grades;
+            }
         }
 
         public static int getStudents()
