@@ -1,0 +1,39 @@
+D:\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\bin\Debug\Cards.exe.config
+D:\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\bin\Debug\Cards.exe
+D:\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\bin\Debug\Cards.pdb
+D:\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\obj\Debug\MainWindow.baml
+D:\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\obj\Debug\MainWindow.g.cs
+D:\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\obj\Debug\App.g.cs
+D:\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\obj\Debug\Cards_MarkupCompile.cache
+D:\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\obj\Debug\Cards.g.resources
+D:\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\obj\Debug\Cards.Properties.Resources.resources
+D:\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\obj\Debug\Cards.csproj.GenerateResource.Cache
+D:\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\obj\Debug\Cards.exe
+D:\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\obj\Debug\Cards.pdb
+D:\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\bin\Debug\Cards.exe.config
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\obj\Debug\Cards.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\obj\Debug\Cards.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\bin\Debug\Cards.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\bin\Debug\Cards.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\obj\Debug\MainWindow.baml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\obj\Debug\MainWindow.g.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\obj\Debug\App.g.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\obj\Debug\Cards_MarkupCompile.cache
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\obj\Debug\Cards.g.resources
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\obj\Debug\Cards.Properties.Resources.resources
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards\Cards\obj\Debug\Cards.csproj.GenerateResource.Cache
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 8\Cards\Cards\bin\Debug\Cards.exe.config
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 8\Cards\Cards\obj\Debug\Cards.exe
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 8\Cards\Cards\obj\Debug\Cards.pdb
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 8\Cards\Cards\bin\Debug\Cards.exe
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 8\Cards\Cards\bin\Debug\Cards.pdb
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 8\Cards\Cards\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 8\Cards\Cards\obj\Debug\MainWindow.baml
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 8\Cards\Cards\obj\Debug\MainWindow.g.cs
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 8\Cards\Cards\obj\Debug\App.g.cs
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 8\Cards\Cards\obj\Debug\Cards_MarkupCompile.cache
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 8\Cards\Cards\obj\Debug\Cards.g.resources
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 8\Cards\Cards\obj\Debug\Cards.Properties.Resources.resources
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 8\Cards\Cards\obj\Debug\Cards.csproj.GenerateResource.Cache
