@@ -1,0 +1,14 @@
+C:\Users\gerryo\Documents\EdX Project\Demo Files\Allfiles\Mod03\Democode\Starter\EventsAndXAML\bin\Debug\EventsAndXAML.exe.config
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 9\EventsAndXAML\EventsAndXAML\bin\Debug\EventsAndXAML.exe.config
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 9\EventsAndXAML\EventsAndXAML\bin\Debug\EventsAndXAML.exe
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 9\EventsAndXAML\EventsAndXAML\bin\Debug\EventsAndXAML.pdb
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 9\EventsAndXAML\EventsAndXAML\obj\Debug\EventsAndXAML.csprojResolveAssemblyReference.cache
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 9\EventsAndXAML\EventsAndXAML\obj\Debug\MainWindow.baml
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 9\EventsAndXAML\EventsAndXAML\obj\Debug\MainWindow.g.cs
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 9\EventsAndXAML\EventsAndXAML\obj\Debug\App.g.cs
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 9\EventsAndXAML\EventsAndXAML\obj\Debug\EventsAndXAML_MarkupCompile.cache
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 9\EventsAndXAML\EventsAndXAML\obj\Debug\EventsAndXAML.g.resources
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 9\EventsAndXAML\EventsAndXAML\obj\Debug\EventsAndXAML.Properties.Resources.resources
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 9\EventsAndXAML\EventsAndXAML\obj\Debug\EventsAndXAML.csproj.GenerateResource.Cache
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 9\EventsAndXAML\EventsAndXAML\obj\Debug\EventsAndXAML.exe
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 9\EventsAndXAML\EventsAndXAML\obj\Debug\EventsAndXAML.pdb
