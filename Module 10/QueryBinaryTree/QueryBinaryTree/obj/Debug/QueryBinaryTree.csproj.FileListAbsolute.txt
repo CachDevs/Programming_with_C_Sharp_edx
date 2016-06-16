@@ -1,0 +1,20 @@
+D:\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\bin\Debug\QueryBinaryTree.exe.config
+D:\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\bin\Debug\QueryBinaryTree.exe
+D:\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\bin\Debug\QueryBinaryTree.pdb
+D:\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\obj\Debug\QueryBinaryTree.csprojResolveAssemblyReference.cache
+D:\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\obj\Debug\QueryBinaryTree.exe
+D:\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\obj\Debug\QueryBinaryTree.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\bin\Debug\QueryBinaryTree.exe.config
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\obj\Debug\QueryBinaryTree.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\obj\Debug\QueryBinaryTree.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\bin\Debug\QueryBinaryTree.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\bin\Debug\QueryBinaryTree.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\obj\Debug\QueryBinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 10\QueryBinaryTree\QueryBinaryTree\bin\Debug\QueryBinaryTree.exe.config
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 10\QueryBinaryTree\QueryBinaryTree\obj\Debug\QueryBinaryTree.exe
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 10\QueryBinaryTree\QueryBinaryTree\obj\Debug\QueryBinaryTree.pdb
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 10\QueryBinaryTree\QueryBinaryTree\bin\Debug\QueryBinaryTree.exe
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 10\QueryBinaryTree\QueryBinaryTree\bin\Debug\QueryBinaryTree.pdb
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 10\QueryBinaryTree\QueryBinaryTree\bin\Debug\BinaryTree.dll
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 10\QueryBinaryTree\QueryBinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 10\QueryBinaryTree\QueryBinaryTree\obj\Debug\QueryBinaryTree.csprojResolveAssemblyReference.cache
