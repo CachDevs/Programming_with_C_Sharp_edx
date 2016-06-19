@@ -60,3 +60,35 @@ D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\GraphDemo\G
 D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\GraphDemo\GraphDemo\obj\Debug\qualifiers.txt.intermediate
 D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\GraphDemo\GraphDemo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\GraphDemo\GraphDemo\obj\Debug\ProjectArchitectures.txt
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\bin\Debug\App.xbf
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\bin\Debug\GraphWindow.xbf
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\bin\Debug\GraphDemo.xr.xml
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\bin\Debug\GraphDemo.exe
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\bin\Debug\GraphDemo.pdb
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\bin\Debug\resources.pri
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\bin\Debug\AppxManifest.xml
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\bin\Debug\GraphDemo.build.appxrecipe
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\App.g.i.cs
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\App.g.cs
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\GraphWindow.g.i.cs
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\GraphWindow.g.cs
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\App.xaml
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\GraphWindow.xaml
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\App.xbf
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\GraphWindow.xbf
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\GraphDemo.exe
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\GraphDemo.pdb
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\priconfig.xml
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\priconfig.xml.intermediate
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\layout.resfiles
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\layout.resfiles.intermediate
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\resources.resfiles
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\resources.resfiles.intermediate
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\pri.resfiles
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\pri.resfiles.intermediate
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\qualifiers.txt
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\ProjectArchitectures.txt

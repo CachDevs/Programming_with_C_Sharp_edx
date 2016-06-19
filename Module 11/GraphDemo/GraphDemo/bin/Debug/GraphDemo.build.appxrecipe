@@ -1,45 +1,52 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>LON-DEV-082</Machine>
-    <WindowsUser>John</WindowsUser>
+    <Machine>DESKTOP-7ILFA15</Machine>
+    <WindowsUser>Principal</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>f3dadaec-6154-4c17-93ff-bc5a5c557d5f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\GraphDemo\GraphDemo\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\GraphDemo\GraphDemo\bin\Debug\GraphDemo.exe">
+    <AppxPackagedFile Include="C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\bin\Debug\GraphDemo.exe">
       <PackagePath>GraphDemo.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\GraphDemo\GraphDemo\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\GraphDemo\GraphDemo\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\GraphDemo\GraphDemo\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\GraphDemo\GraphDemo\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\GraphDemo\GraphDemo\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\bin\Debug\GraphDemo.xr.xml">
+      <PackagePath>GraphDemo.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\GraphDemo\GraphDemo\bin\Debug\GraphWindow.xbf">
+    <AppxPackagedFile Include="C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\bin\Debug\GraphWindow.xbf">
       <PackagePath>GraphWindow.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 23\GraphDemo\GraphDemo\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Principal\Dropbox\Cursos\Programming with C Sharp\Programming_with_C_Sharp_edx\Module 11\GraphDemo\GraphDemo\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

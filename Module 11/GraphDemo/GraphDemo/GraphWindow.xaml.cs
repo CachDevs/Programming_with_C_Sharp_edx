@@ -7,6 +7,7 @@ using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Media.Imaging;
 using Windows.UI.Xaml.Navigation;
 using System.Runtime.InteropServices.WindowsRuntime;
+using System.Threading.Tasks;
 
 namespace GraphDemo
 {
@@ -48,7 +49,10 @@ namespace GraphDemo
             Stopwatch watch = Stopwatch.StartNew();
 
             // Generate the data for the graph
-            generateGraphData(data);
+            //generateGraphData(data);
+            Task first = Task.Run(() => generateGraphData(data, 0, pixelWidth / 4));
+            Task second = Task.Run(() => generateGraphData(data, pixelWidth / 4, pixelWidth / 2));
+            Task.WaitAll(first, second);
 
             // Display the time taken to generate the data
             duration.Text = string.Format("Duration (ms): {0}", watch.ElapsedMilliseconds);
@@ -62,13 +66,13 @@ namespace GraphDemo
         }
 
         // Complex function that generates the data for the graph
-        private void generateGraphData(byte[] data)
+        private void generateGraphData(byte[] data, int partitionStart, int partitionEnd)
         {
             int a = pixelWidth / 2;
             int b = a * a;
             int c = pixelHeight / 2;
 
-            for (int x = 0; x < a; x++)
+            for (int x = partitionStart; x < partitionEnd; x++)
             {
                 int s = x * x;
                 double p = Math.Sqrt(b - s);
